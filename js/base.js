@@ -1,5 +1,6 @@
 ;(function() {
 	// body...
 	"use strict";
-	console.log($);
+	// console.log($);
+	
 })();
